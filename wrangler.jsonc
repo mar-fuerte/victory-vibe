@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "victory-vibe",
+  "pages_build_output_dir": ".",
+  "kv_namespaces": [
+    {
+      "binding": "TIKTOK_KV",
+      "id": "97071affe8414fd480b5c05af5a295f8"
+    }
+  ]
+}
