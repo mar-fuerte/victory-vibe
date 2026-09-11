@@ -25,7 +25,7 @@ export default {
 
       authUrl.searchParams.set(
         "scope",
-        "user.info.basic"
+        "user.info.basic,video.publish"
       );
 
       authUrl.searchParams.set(
